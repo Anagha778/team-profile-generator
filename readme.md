@@ -13,7 +13,7 @@ default email program opens and populates the TO field of the email with the add
  * Use command npm i inquirer to install inquirer package.
  * Use npm install --save-dev jest command to install unit test framework Jest.
  * once installation is done, application can be invoked using command : node index.js
- * Readme file will be generated in dist folder.
+ * HTML file will be generated in dist folder.
  * Unit tests can be run using command npm run test.
 
 ## Validations 
