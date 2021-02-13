@@ -17,7 +17,7 @@ default email program opens and populates the TO field of the email with the add
  * Unit tests can be run using command npm run test.
 
 ## Validations 
-* Mandatory fields - Name, d, email id, office no
+* Mandatory fields - Name, id, email id, office no
 * Office no can be accepted in the formats - (123) 456-7890, (123)456-7890, 123-456-7890, 
 1234567890
 * Email id should have @ symbol (e.g. abc@test.com)
@@ -49,7 +49,7 @@ THEN I exit the application, and the HTML is generated
 
 ## Video link
 
-[Application walkthrough video link](./images/Readme-Generator.mp4)
+[Application walkthrough video link](./images/team-profile.mp4)
 
 ## Mock Image
 #### HTML File
