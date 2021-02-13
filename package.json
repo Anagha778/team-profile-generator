@@ -1,0 +1,22 @@
+{
+  "name": "team-profile",
+  "version": "1.0.0",
+  "description": "Team profile generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anagha778/team-profile-generator.git"
+  },
+  "author": "anagha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anagha778/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/Anagha778/team-profile-generator#readme"
+}
