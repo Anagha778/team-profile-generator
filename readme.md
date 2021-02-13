@@ -17,13 +17,9 @@ default email program opens and populates the TO field of the email with the add
  * Unit tests can be run using command npm run test.
 
 ## Validations 
-* Mandatory fields
-- Name, d, email id, office no
-* Office no can be accepted in following formats
-    (123) 456-7890
-    (123)456-7890
-    123-456-7890
-    1234567890
+* Mandatory fields - Name, d, email id, office no
+* Office no can be accepted in the formats - (123) 456-7890, (123)456-7890, 123-456-7890, 
+1234567890
 * Email id should have @ symbol (e.g. abc@test.com)
 
  ## User Story
