@@ -71,7 +71,6 @@ const generatePage = data => {
     </div>
     </main>
     <script src="https://kit.fontawesome.com/92ae2a3c2c.js" crossorigin="anonymous"></script>
-    <script src="./assets/js/script.js"></script>
     </body>
     </html>
     `;    
