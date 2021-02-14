@@ -68,6 +68,12 @@ THEN I exit the application, and the HTML is generated
     <img src="./images/unittest.png" width="400px"/> 
 </div>
 
+#### Validations
+
+<div>
+    <img src="./images/validation.png" width="400px"/> 
+</div>
+
 
 ## Built With
 * Javascript
